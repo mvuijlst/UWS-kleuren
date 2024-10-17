@@ -1,0 +1,373 @@
+palette:
+  Portal:
+  - name: Body background
+    slug: body-bg
+    color: '#FFFFFF'
+  - name: Body text
+    slug: body-text
+    color: '#1A1A1A'
+  - name: UGent blue
+    slug: ugent-blue
+    color: '#1E64C8'
+  - name: UGent light blue
+    slug: ugent-lightblue
+    color: '#E8EFF9'
+  - name: Accent
+    slug: accent
+    color: '#FFD200'
+  - name: Accent medium
+    slug: accent-medium
+    color: '#FFE466'
+  - name: Accent light
+    slug: accent-light
+    color: '#FFF1B2'
+  - name: Grey
+    slug: grey
+    color: '#999999'
+  - name: Grey medium
+    slug: grey-medium
+    color: '#CCCCCC'
+  - name: Grey light
+    slug: grey-light
+    color: '#E5E5E5'
+  LW:
+  - name: Body background
+    slug: body-bg
+    color: '#FFFFFF'
+  - name: Body text
+    slug: body-text
+    color: '#1A1A1A'
+  - name: UGent blue
+    slug: ugent-blue
+    color: '#1E64C8'
+  - name: UGent light blue
+    slug: ugent-lightblue
+    color: '#E8EFF9'
+  - name: Accent
+    slug: accent
+    color: '#F1A42B'
+  - name: Accent medium
+    slug: accent-medium
+    color: '#F7C880'
+  - name: Accent light
+    slug: accent-light
+    color: '#FBE4BF'
+  - name: Grey
+    slug: grey
+    color: '#999999'
+  - name: Grey medium
+    slug: grey-medium
+    color: '#CCCCCC'
+  - name: Grey light
+    slug: grey-light
+    color: '#E5E5E5'
+  RE:
+  - name: Body background
+    slug: body-bg
+    color: '#FFFFFF'
+  - name: Body text
+    slug: body-text
+    color: '#1A1A1A'
+  - name: UGent blue
+    slug: ugent-blue
+    color: '#1E64C8'
+  - name: UGent light blue
+    slug: ugent-lightblue
+    color: '#E8EFF9'
+  - name: Accent
+    slug: accent
+    color: '#DC4E28'
+  - name: Accent medium
+    slug: accent-medium
+    color: '#EA957E'
+  - name: Accent light
+    slug: accent-light
+    color: '#F5CABF'
+  - name: Grey
+    slug: grey
+    color: '#999999'
+  - name: Grey medium
+    slug: grey-medium
+    color: '#CCCCCC'
+  - name: Grey light
+    slug: grey-light
+    color: '#E5E5E5'
+  WE:
+  - name: Body background
+    slug: body-bg
+    color: '#FFFFFF'
+  - name: Body text
+    slug: body-text
+    color: '#1A1A1A'
+  - name: UGent blue
+    slug: ugent-blue
+    color: '#1E64C8'
+  - name: UGent light blue
+    slug: ugent-lightblue
+    color: '#E8EFF9'
+  - name: Accent
+    slug: accent
+    color: '#2D8CA8'
+  - name: Accent medium
+    slug: accent-medium
+    color: '#81BACB'
+  - name: Accent light
+    slug: accent-light
+    color: '#C0DDE5'
+  - name: Grey
+    slug: grey
+    color: '#999999'
+  - name: Grey medium
+    slug: grey-medium
+    color: '#CCCCCC'
+  - name: Grey light
+    slug: grey-light
+    color: '#E5E5E5'
+  GE:
+  - name: Body background
+    slug: body-bg
+    color: '#FFFFFF'
+  - name: Body text
+    slug: body-text
+    color: '#1A1A1A'
+  - name: UGent blue
+    slug: ugent-blue
+    color: '#1E64C8'
+  - name: UGent light blue
+    slug: ugent-lightblue
+    color: '#E8EFF9'
+  - name: Accent
+    slug: accent
+    color: '#E85E71'
+  - name: Accent medium
+    slug: accent-medium
+    color: '#F19EAA'
+  - name: Accent light
+    slug: accent-light
+    color: '#F8CFD4'
+  - name: Grey
+    slug: grey
+    color: '#999999'
+  - name: Grey medium
+    slug: grey-medium
+    color: '#CCCCCC'
+  - name: Grey light
+    slug: grey-light
+    color: '#E5E5E5'
+  EA:
+  - name: Body background
+    slug: body-bg
+    color: '#FFFFFF'
+  - name: Body text
+    slug: body-text
+    color: '#1A1A1A'
+  - name: UGent blue
+    slug: ugent-blue
+    color: '#1E64C8'
+  - name: UGent light blue
+    slug: ugent-lightblue
+    color: '#E8EFF9'
+  - name: Accent
+    slug: accent
+    color: '#8BBEE8'
+  - name: Accent medium
+    slug: accent-medium
+    color: '#B9D8F1'
+  - name: Accent light
+    slug: accent-light
+    color: '#DCECF8'
+  - name: Grey
+    slug: grey
+    color: '#999999'
+  - name: Grey medium
+    slug: grey-medium
+    color: '#CCCCCC'
+  - name: Grey light
+    slug: grey-light
+    color: '#E5E5E5'
+  EB:
+  - name: Body background
+    slug: body-bg
+    color: '#FFFFFF'
+  - name: Body text
+    slug: body-text
+    color: '#1A1A1A'
+  - name: UGent blue
+    slug: ugent-blue
+    color: '#1E64C8'
+  - name: UGent light blue
+    slug: ugent-lightblue
+    color: '#E8EFF9'
+  - name: Accent
+    slug: accent
+    color: '#AEB050'
+  - name: Accent medium
+    slug: accent-medium
+    color: '#CED096'
+  - name: Accent light
+    slug: accent-light
+    color: '#E7E7CB'
+  - name: Grey
+    slug: grey
+    color: '#999999'
+  - name: Grey medium
+    slug: grey-medium
+    color: '#CCCCCC'
+  - name: Grey light
+    slug: grey-light
+    color: '#E5E5E5'
+  DI:
+  - name: Body background
+    slug: body-bg
+    color: '#FFFFFF'
+  - name: Body text
+    slug: body-text
+    color: '#1A1A1A'
+  - name: UGent blue
+    slug: ugent-blue
+    color: '#1E64C8'
+  - name: UGent light blue
+    slug: ugent-lightblue
+    color: '#E8EFF9'
+  - name: Accent
+    slug: accent
+    color: '#825491'
+  - name: Accent medium
+    slug: accent-medium
+    color: '#B498BD'
+  - name: Accent light
+    slug: accent-light
+    color: '#DACCDE'
+  - name: Grey
+    slug: grey
+    color: '#999999'
+  - name: Grey medium
+    slug: grey-medium
+    color: '#CCCCCC'
+  - name: Grey light
+    slug: grey-light
+    color: '#E5E5E5'
+  PP:
+  - name: Body background
+    slug: body-bg
+    color: '#FFFFFF'
+  - name: Body text
+    slug: body-text
+    color: '#1A1A1A'
+  - name: UGent blue
+    slug: ugent-blue
+    color: '#1E64C8'
+  - name: UGent light blue
+    slug: ugent-lightblue
+    color: '#E8EFF9'
+  - name: Accent
+    slug: accent
+    color: '#FB7E3A'
+  - name: Accent medium
+    slug: accent-medium
+    color: '#FDB289'
+  - name: Accent light
+    slug: accent-light
+    color: '#FED8C4'
+  - name: Grey
+    slug: grey
+    color: '#999999'
+  - name: Grey medium
+    slug: grey-medium
+    color: '#CCCCCC'
+  - name: Grey light
+    slug: grey-light
+    color: '#E5E5E5'
+  BW:
+  - name: Body background
+    slug: body-bg
+    color: '#FFFFFF'
+  - name: Body text
+    slug: body-text
+    color: '#1A1A1A'
+  - name: UGent blue
+    slug: ugent-blue
+    color: '#1E64C8'
+  - name: UGent light blue
+    slug: ugent-lightblue
+    color: '#E8EFF9'
+  - name: Accent
+    slug: accent
+    color: '#27ABAD'
+  - name: Accent medium
+    slug: accent-medium
+    color: '#7DCDCE'
+  - name: Accent light
+    slug: accent-light
+    color: '#BEE6E6'
+  - name: Grey
+    slug: grey
+    color: '#999999'
+  - name: Grey medium
+    slug: grey-medium
+    color: '#CCCCCC'
+  - name: Grey light
+    slug: grey-light
+    color: '#E5E5E5'
+  FW:
+  - name: Body background
+    slug: body-bg
+    color: '#FFFFFF'
+  - name: Body text
+    slug: body-text
+    color: '#1A1A1A'
+  - name: UGent blue
+    slug: ugent-blue
+    color: '#1E64C8'
+  - name: UGent light blue
+    slug: ugent-lightblue
+    color: '#E8EFF9'
+  - name: Accent
+    slug: accent
+    color: '#BE5190'
+  - name: Accent medium
+    slug: accent-medium
+    color: '#D897BC'
+  - name: Accent light
+    slug: accent-light
+    color: '#ECCBDE'
+  - name: Grey
+    slug: grey
+    color: '#999999'
+  - name: Grey medium
+    slug: grey-medium
+    color: '#CCCCCC'
+  - name: Grey light
+    slug: grey-light
+    color: '#E5E5E5'
+  PS:
+  - name: Body background
+    slug: body-bg
+    color: '#FFFFFF'
+  - name: Body text
+    slug: body-text
+    color: '#1A1A1A'
+  - name: UGent blue
+    slug: ugent-blue
+    color: '#1E64C8'
+  - name: UGent light blue
+    slug: ugent-lightblue
+    color: '#E8EFF9'
+  - name: Accent
+    slug: accent
+    color: '#71A860'
+  - name: Accent medium
+    slug: accent-medium
+    color: '#AACBA0'
+  - name: Accent light
+    slug: accent-light
+    color: '#D4E5CF'
+  - name: Grey
+    slug: grey
+    color: '#999999'
+  - name: Grey medium
+    slug: grey-medium
+    color: '#CCCCCC'
+  - name: Grey light
+    slug: grey-light
+    color: '#E5E5E5'
