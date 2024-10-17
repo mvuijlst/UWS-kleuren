@@ -1,373 +1,373 @@
 palette:
   Portal:
-  - name: Body background
+  - name: Background
     slug: body-bg
     color: '#FFFFFF'
   - name: Body text
     slug: body-text
     color: '#1A1A1A'
-  - name: UGent blue
-    slug: ugent-blue
+  - name: Primary
+    slug: primary
     color: '#1E64C8'
-  - name: UGent light blue
-    slug: ugent-lightblue
+  - name: Primary light
+    slug: primary-light
     color: '#E8EFF9'
-  - name: Accent
-    slug: accent
+  - name: Secondary
+    slug: secondary
     color: '#FFD200'
-  - name: Accent medium
-    slug: accent-medium
+  - name: Secondary medium
+    slug: secondary-medium
     color: '#FFE466'
-  - name: Accent light
-    slug: accent-light
+  - name: Secondary light
+    slug: secondary-light
     color: '#FFF1B2'
-  - name: Grey
-    slug: grey
+  - name: Neutral
+    slug: neutral
     color: '#999999'
-  - name: Grey medium
-    slug: grey-medium
+  - name: Neutral medium
+    slug: neutral-medium
     color: '#CCCCCC'
-  - name: Grey light
-    slug: grey-light
+  - name: Neutral light
+    slug: neutral-light
     color: '#E5E5E5'
   LW:
-  - name: Body background
+  - name: Background
     slug: body-bg
     color: '#FFFFFF'
   - name: Body text
     slug: body-text
     color: '#1A1A1A'
-  - name: UGent blue
-    slug: ugent-blue
+  - name: Primary
+    slug: primary
     color: '#1E64C8'
-  - name: UGent light blue
-    slug: ugent-lightblue
+  - name: Primary light
+    slug: primary-light
     color: '#E8EFF9'
-  - name: Accent
-    slug: accent
+  - name: Secondary
+    slug: secondary
     color: '#F1A42B'
-  - name: Accent medium
-    slug: accent-medium
+  - name: Secondary medium
+    slug: secondary-medium
     color: '#F7C880'
-  - name: Accent light
-    slug: accent-light
+  - name: Secondary light
+    slug: secondary-light
     color: '#FBE4BF'
-  - name: Grey
-    slug: grey
+  - name: Neutral
+    slug: neutral
     color: '#999999'
-  - name: Grey medium
-    slug: grey-medium
+  - name: Neutral medium
+    slug: neutral-medium
     color: '#CCCCCC'
-  - name: Grey light
-    slug: grey-light
+  - name: Neutral light
+    slug: neutral-light
     color: '#E5E5E5'
   RE:
-  - name: Body background
+  - name: Background
     slug: body-bg
     color: '#FFFFFF'
   - name: Body text
     slug: body-text
     color: '#1A1A1A'
-  - name: UGent blue
-    slug: ugent-blue
+  - name: Primary
+    slug: primary
     color: '#1E64C8'
-  - name: UGent light blue
-    slug: ugent-lightblue
+  - name: Primary light
+    slug: primary-light
     color: '#E8EFF9'
-  - name: Accent
-    slug: accent
+  - name: Secondary
+    slug: secondary
     color: '#DC4E28'
-  - name: Accent medium
-    slug: accent-medium
+  - name: Secondary medium
+    slug: secondary-medium
     color: '#EA957E'
-  - name: Accent light
-    slug: accent-light
+  - name: Secondary light
+    slug: secondary-light
     color: '#F5CABF'
-  - name: Grey
-    slug: grey
+  - name: Neutral
+    slug: neutral
     color: '#999999'
-  - name: Grey medium
-    slug: grey-medium
+  - name: Neutral medium
+    slug: neutral-medium
     color: '#CCCCCC'
-  - name: Grey light
-    slug: grey-light
+  - name: Neutral light
+    slug: neutral-light
     color: '#E5E5E5'
   WE:
-  - name: Body background
+  - name: Background
     slug: body-bg
     color: '#FFFFFF'
   - name: Body text
     slug: body-text
     color: '#1A1A1A'
-  - name: UGent blue
-    slug: ugent-blue
+  - name: Primary
+    slug: primary
     color: '#1E64C8'
-  - name: UGent light blue
-    slug: ugent-lightblue
+  - name: Primary light
+    slug: primary-light
     color: '#E8EFF9'
-  - name: Accent
-    slug: accent
+  - name: Secondary
+    slug: secondary
     color: '#2D8CA8'
-  - name: Accent medium
-    slug: accent-medium
+  - name: Secondary medium
+    slug: secondary-medium
     color: '#81BACB'
-  - name: Accent light
-    slug: accent-light
+  - name: Secondary light
+    slug: secondary-light
     color: '#C0DDE5'
-  - name: Grey
-    slug: grey
+  - name: Neutral
+    slug: neutral
     color: '#999999'
-  - name: Grey medium
-    slug: grey-medium
+  - name: Neutral medium
+    slug: neutral-medium
     color: '#CCCCCC'
-  - name: Grey light
-    slug: grey-light
+  - name: Neutral light
+    slug: neutral-light
     color: '#E5E5E5'
   GE:
-  - name: Body background
+  - name: Background
     slug: body-bg
     color: '#FFFFFF'
   - name: Body text
     slug: body-text
     color: '#1A1A1A'
-  - name: UGent blue
-    slug: ugent-blue
+  - name: Primary
+    slug: primary
     color: '#1E64C8'
-  - name: UGent light blue
-    slug: ugent-lightblue
+  - name: Primary light
+    slug: primary-light
     color: '#E8EFF9'
-  - name: Accent
-    slug: accent
+  - name: Secondary
+    slug: secondary
     color: '#E85E71'
-  - name: Accent medium
-    slug: accent-medium
+  - name: Secondary medium
+    slug: secondary-medium
     color: '#F19EAA'
-  - name: Accent light
-    slug: accent-light
+  - name: Secondary light
+    slug: secondary-light
     color: '#F8CFD4'
-  - name: Grey
-    slug: grey
+  - name: Neutral
+    slug: neutral
     color: '#999999'
-  - name: Grey medium
-    slug: grey-medium
+  - name: Neutral medium
+    slug: neutral-medium
     color: '#CCCCCC'
-  - name: Grey light
-    slug: grey-light
+  - name: Neutral light
+    slug: neutral-light
     color: '#E5E5E5'
   EA:
-  - name: Body background
+  - name: Background
     slug: body-bg
     color: '#FFFFFF'
   - name: Body text
     slug: body-text
     color: '#1A1A1A'
-  - name: UGent blue
-    slug: ugent-blue
+  - name: Primary
+    slug: primary
     color: '#1E64C8'
-  - name: UGent light blue
-    slug: ugent-lightblue
+  - name: Primary light
+    slug: primary-light
     color: '#E8EFF9'
-  - name: Accent
-    slug: accent
+  - name: Secondary
+    slug: secondary
     color: '#8BBEE8'
-  - name: Accent medium
-    slug: accent-medium
+  - name: Secondary medium
+    slug: secondary-medium
     color: '#B9D8F1'
-  - name: Accent light
-    slug: accent-light
+  - name: Secondary light
+    slug: secondary-light
     color: '#DCECF8'
-  - name: Grey
-    slug: grey
+  - name: Neutral
+    slug: neutral
     color: '#999999'
-  - name: Grey medium
-    slug: grey-medium
+  - name: Neutral medium
+    slug: neutral-medium
     color: '#CCCCCC'
-  - name: Grey light
-    slug: grey-light
+  - name: Neutral light
+    slug: neutral-light
     color: '#E5E5E5'
   EB:
-  - name: Body background
+  - name: Background
     slug: body-bg
     color: '#FFFFFF'
   - name: Body text
     slug: body-text
     color: '#1A1A1A'
-  - name: UGent blue
-    slug: ugent-blue
+  - name: Primary
+    slug: primary
     color: '#1E64C8'
-  - name: UGent light blue
-    slug: ugent-lightblue
+  - name: Primary light
+    slug: primary-light
     color: '#E8EFF9'
-  - name: Accent
-    slug: accent
+  - name: Secondary
+    slug: secondary
     color: '#AEB050'
-  - name: Accent medium
-    slug: accent-medium
+  - name: Secondary medium
+    slug: secondary-medium
     color: '#CED096'
-  - name: Accent light
-    slug: accent-light
+  - name: Secondary light
+    slug: secondary-light
     color: '#E7E7CB'
-  - name: Grey
-    slug: grey
+  - name: Neutral
+    slug: neutral
     color: '#999999'
-  - name: Grey medium
-    slug: grey-medium
+  - name: Neutral medium
+    slug: neutral-medium
     color: '#CCCCCC'
-  - name: Grey light
-    slug: grey-light
+  - name: Neutral light
+    slug: neutral-light
     color: '#E5E5E5'
   DI:
-  - name: Body background
+  - name: Background
     slug: body-bg
     color: '#FFFFFF'
   - name: Body text
     slug: body-text
     color: '#1A1A1A'
-  - name: UGent blue
-    slug: ugent-blue
+  - name: Primary
+    slug: primary
     color: '#1E64C8'
-  - name: UGent light blue
-    slug: ugent-lightblue
+  - name: Primary light
+    slug: primary-light
     color: '#E8EFF9'
-  - name: Accent
-    slug: accent
+  - name: Secondary
+    slug: secondary
     color: '#825491'
-  - name: Accent medium
-    slug: accent-medium
+  - name: Secondary medium
+    slug: secondary-medium
     color: '#B498BD'
-  - name: Accent light
-    slug: accent-light
+  - name: Secondary light
+    slug: secondary-light
     color: '#DACCDE'
-  - name: Grey
-    slug: grey
+  - name: Neutral
+    slug: neutral
     color: '#999999'
-  - name: Grey medium
-    slug: grey-medium
+  - name: Neutral medium
+    slug: neutral-medium
     color: '#CCCCCC'
-  - name: Grey light
-    slug: grey-light
+  - name: Neutral light
+    slug: neutral-light
     color: '#E5E5E5'
   PP:
-  - name: Body background
+  - name: Background
     slug: body-bg
     color: '#FFFFFF'
   - name: Body text
     slug: body-text
     color: '#1A1A1A'
-  - name: UGent blue
-    slug: ugent-blue
+  - name: Primary
+    slug: primary
     color: '#1E64C8'
-  - name: UGent light blue
-    slug: ugent-lightblue
+  - name: Primary light
+    slug: primary-light
     color: '#E8EFF9'
-  - name: Accent
-    slug: accent
+  - name: Secondary
+    slug: secondary
     color: '#FB7E3A'
-  - name: Accent medium
-    slug: accent-medium
+  - name: Secondary medium
+    slug: secondary-medium
     color: '#FDB289'
-  - name: Accent light
-    slug: accent-light
+  - name: Secondary light
+    slug: secondary-light
     color: '#FED8C4'
-  - name: Grey
-    slug: grey
+  - name: Neutral
+    slug: neutral
     color: '#999999'
-  - name: Grey medium
-    slug: grey-medium
+  - name: Neutral medium
+    slug: neutral-medium
     color: '#CCCCCC'
-  - name: Grey light
-    slug: grey-light
+  - name: Neutral light
+    slug: neutral-light
     color: '#E5E5E5'
   BW:
-  - name: Body background
+  - name: Background
     slug: body-bg
     color: '#FFFFFF'
   - name: Body text
     slug: body-text
     color: '#1A1A1A'
-  - name: UGent blue
-    slug: ugent-blue
+  - name: Primary
+    slug: primary
     color: '#1E64C8'
-  - name: UGent light blue
-    slug: ugent-lightblue
+  - name: Primary light
+    slug: primary-light
     color: '#E8EFF9'
-  - name: Accent
-    slug: accent
+  - name: Secondary
+    slug: secondary
     color: '#27ABAD'
-  - name: Accent medium
-    slug: accent-medium
+  - name: Secondary medium
+    slug: secondary-medium
     color: '#7DCDCE'
-  - name: Accent light
-    slug: accent-light
+  - name: Secondary light
+    slug: secondary-light
     color: '#BEE6E6'
-  - name: Grey
-    slug: grey
+  - name: Neutral
+    slug: neutral
     color: '#999999'
-  - name: Grey medium
-    slug: grey-medium
+  - name: Neutral medium
+    slug: neutral-medium
     color: '#CCCCCC'
-  - name: Grey light
-    slug: grey-light
+  - name: Neutral light
+    slug: neutral-light
     color: '#E5E5E5'
   FW:
-  - name: Body background
+  - name: Background
     slug: body-bg
     color: '#FFFFFF'
   - name: Body text
     slug: body-text
     color: '#1A1A1A'
-  - name: UGent blue
-    slug: ugent-blue
+  - name: Primary
+    slug: primary
     color: '#1E64C8'
-  - name: UGent light blue
-    slug: ugent-lightblue
+  - name: Primary light
+    slug: primary-light
     color: '#E8EFF9'
-  - name: Accent
-    slug: accent
+  - name: Secondary
+    slug: secondary
     color: '#BE5190'
-  - name: Accent medium
-    slug: accent-medium
+  - name: Secondary medium
+    slug: secondary-medium
     color: '#D897BC'
-  - name: Accent light
-    slug: accent-light
+  - name: Secondary light
+    slug: secondary-light
     color: '#ECCBDE'
-  - name: Grey
-    slug: grey
+  - name: Neutral
+    slug: neutral
     color: '#999999'
-  - name: Grey medium
-    slug: grey-medium
+  - name: Neutral medium
+    slug: neutral-medium
     color: '#CCCCCC'
-  - name: Grey light
-    slug: grey-light
+  - name: Neutral light
+    slug: neutral-light
     color: '#E5E5E5'
   PS:
-  - name: Body background
+  - name: Background
     slug: body-bg
     color: '#FFFFFF'
   - name: Body text
     slug: body-text
     color: '#1A1A1A'
-  - name: UGent blue
-    slug: ugent-blue
+  - name: Primary
+    slug: primary
     color: '#1E64C8'
-  - name: UGent light blue
-    slug: ugent-lightblue
+  - name: Primary light
+    slug: primary-light
     color: '#E8EFF9'
-  - name: Accent
-    slug: accent
+  - name: Secondary
+    slug: secondary
     color: '#71A860'
-  - name: Accent medium
-    slug: accent-medium
+  - name: Secondary medium
+    slug: secondary-medium
     color: '#AACBA0'
-  - name: Accent light
-    slug: accent-light
+  - name: Secondary light
+    slug: secondary-light
     color: '#D4E5CF'
-  - name: Grey
-    slug: grey
+  - name: Neutral
+    slug: neutral
     color: '#999999'
-  - name: Grey medium
-    slug: grey-medium
+  - name: Neutral medium
+    slug: neutral-medium
     color: '#CCCCCC'
-  - name: Grey light
-    slug: grey-light
+  - name: Neutral light
+    slug: neutral-light
     color: '#E5E5E5'
